@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @glucklee
+- 👋 Hi, I’m @GluckLee
 - 👀 I’m interested in point cloud, CNN, ML
 - 🌱 I’m currently learning DL
 - 💞️ I’m looking to collaborate on DL
